@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
         String myString = String.valueOf(number);
         myText.setText(myString);
         if (number <= 8){
-            myString = "5% discount";
+            myString = "7% discount";
             myText.setText(myString);
         }
         else{
