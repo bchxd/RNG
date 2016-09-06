@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
             myText.setText(myString);
         }
         else{
-            myString = "10% discount";
+            myString = "12% discount";
             myText.setText(myString);
         }
     }
